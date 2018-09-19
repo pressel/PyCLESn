@@ -1,2 +1,2 @@
 mpi4py
-pytest 
+pytest
