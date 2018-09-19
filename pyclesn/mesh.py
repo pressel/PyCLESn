@@ -9,3 +9,11 @@ class Mesh:
 
 
 
+class Mesh2DCart(Mesh):
+    def __init__(self, namelist):
+
+        Mesh.__init__(self, namelist)
+
+
+
+        return
